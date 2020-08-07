@@ -12,3 +12,6 @@ https://github.com/python-telegram-bot/python-telegram-bot
 **Some ideas**<br>
 Generating text with LSTM:<br>
 https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+
+Kaggle, COVID-19 NLP chatbot:<br>
+https://www.kaggle.com/aaroha33/chatbot-covid-19-20-nlp
