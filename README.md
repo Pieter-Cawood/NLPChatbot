@@ -18,6 +18,9 @@ https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-network
 
 Kaggle, COVID-19 NLP chatbot:<br>
 https://www.kaggle.com/aaroha33/chatbot-covid-19-20-nlp
+(These guys use a Twitter scraping API, not a bad idea:
+https://www.tweepy.org/)
 
 Kaggle, South Park Chatbot:<br>
 https://www.kaggle.com/currie32/a-south-park-chatbot
+
