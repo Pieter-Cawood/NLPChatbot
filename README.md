@@ -13,6 +13,9 @@ https://github.com/python-telegram-bot/python-telegram-bot
 Ideas and data:<br>
 https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/
 
+Neural network chatbot: <br>
+https://towardsdatascience.com/deep-learning-for-nlp-creating-a-chatbot-with-keras-da5ca051e051
+
 Generating text with LSTM:<br>
 https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 
