@@ -14,6 +14,7 @@ Ideas and data:<br>
 https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/
 
 Neural network chatbot: <br>
+https://medium.com/swlh/end-to-end-chatbot-using-sequence-to-sequence-architecture-e24d137f9c78
 https://towardsdatascience.com/deep-learning-for-nlp-creating-a-chatbot-with-keras-da5ca051e051
 https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/
 
