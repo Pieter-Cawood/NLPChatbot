@@ -15,6 +15,7 @@ https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/
 
 Neural network chatbot: <br>
 https://towardsdatascience.com/deep-learning-for-nlp-creating-a-chatbot-with-keras-da5ca051e051
+https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/
 
 Generating text with LSTM:<br>
 https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
