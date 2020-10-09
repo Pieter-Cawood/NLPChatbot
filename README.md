@@ -9,9 +9,8 @@ https://github.com/python-telegram-bot/python-telegram-bot
 1396342801:AAElqHfd2RGJI-lhdbVevFYSIW4HolMjS7E
 
 
-**Some ideas**<br>
-Ideas and data:<br>
-https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/
+**Data set**<br>
+http://jmcauley.ucsd.edu/data/amazon/qa/
 
 Neural network chatbot: <br>
 https://medium.com/swlh/end-to-end-chatbot-using-sequence-to-sequence-architecture-e24d137f9c78
