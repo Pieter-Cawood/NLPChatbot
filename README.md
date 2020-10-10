@@ -12,19 +12,8 @@ https://github.com/python-telegram-bot/python-telegram-bot
 **Data set**<br>
 http://jmcauley.ucsd.edu/data/amazon/qa/
 
-Neural network chatbot: <br>
-https://medium.com/swlh/end-to-end-chatbot-using-sequence-to-sequence-architecture-e24d137f9c78
-https://towardsdatascience.com/deep-learning-for-nlp-creating-a-chatbot-with-keras-da5ca051e051
-https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/
+**Seq2Seq with attention and GloVe Embeddings**: <br>
+https://github.com/Pawandeep-prog/keras-seq2seq-chatbot-with-attention/blob/master/seq2seq-chatbot-keras-with-attention.ipynb
 
-Generating text with LSTM:<br>
-https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-
-Kaggle, COVID-19 NLP chatbot:<br>
-https://www.kaggle.com/aaroha33/chatbot-covid-19-20-nlp
-(These guys use a Twitter scraping API, not a bad idea:
-https://www.tweepy.org/)
-
-Kaggle, South Park Chatbot:<br>
-https://www.kaggle.com/currie32/a-south-park-chatbot
-
+**Transformer with ts.Dataset to speed up training** <br>
+https://github.com/bryanlimy/tf2-transformer-chatbot/blob/master/tf2_tpu_transformer_chatbot.ipynb
