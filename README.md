@@ -13,7 +13,8 @@ https://github.com/python-telegram-bot/python-telegram-bot
 http://jmcauley.ucsd.edu/data/amazon/qa/
 
 **Attention description**<br>
-https://swethatanamala.github.io/2018/11/14/neural-machine-translation-by-learning-to-align-translate/
+https://swethatanamala.github.io/2018/11/14/neural-machine-translation-by-learning-to-align-translate/ <br>
+https://blog.floydhub.com/attention-mechanism/
 
 **Seq2Seq with attention and GloVe Embeddings**: <br>
 https://github.com/Pawandeep-prog/keras-seq2seq-chatbot-with-attention/blob/master/seq2seq-chatbot-keras-with-attention.ipynb
