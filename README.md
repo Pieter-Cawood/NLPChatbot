@@ -10,6 +10,7 @@ https://github.com/python-telegram-bot/python-telegram-bot
 
 
 **Data set**<br>
+https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
 **GloVe 100 embedding**<br>
 https://www.kaggle.com/danielwillgeorge/glove6b100dtxt
