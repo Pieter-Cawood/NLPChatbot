@@ -10,7 +10,9 @@ https://github.com/python-telegram-bot/python-telegram-bot
 
 
 **Data set**<br>
-http://jmcauley.ucsd.edu/data/amazon/qa/
+
+**GloVe 100 embedding**<br>
+https://www.kaggle.com/danielwillgeorge/glove6b100dtxt
 
 **Attention description**<br>
 https://swethatanamala.github.io/2018/11/14/neural-machine-translation-by-learning-to-align-translate/ <br>
