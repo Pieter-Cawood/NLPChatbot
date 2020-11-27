@@ -2,7 +2,7 @@
 This Jupyter Notebook implements a Seq2Seq (Keras module) + GloVe embeddings + Attention chatbot, interfaced with Telegram.
 Trained using the transcripts of 617 movies.
 <br><br>
-![Chatbot](/resources/logo2.png )
+![Chatbot](/resources/logo.png )
 
 ## Installation
 1. Create a 'data' and 'glove' folder in the project root.
