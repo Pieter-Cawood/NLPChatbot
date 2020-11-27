@@ -12,3 +12,5 @@ Trained using the transcripts of 617 movies.
 - Place glove.6B.100d.txt in the glove folder.
 4. Check requirements.txt for Python package requirements.
 
+## Acknowledgement
+Thushan Ganegedara for sharing his Keras Attention layer. https://github.com/thushv89/attention_keras
