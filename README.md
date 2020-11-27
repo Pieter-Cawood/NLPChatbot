@@ -1,5 +1,5 @@
 # NLPChatbot
-Seq2Seq + Attention Chatbot (implemented in Keras), and interfaced with Telegram.
+Seq2Seq (Keras module) + GloVe embeddings + Attention  Chatbot, and interfaced with Telegram.
 Trained using the transcripts of 617 movies.
 <br><br>
 ![Chatbot](/resources/logo.png )
