@@ -1,5 +1,5 @@
 # NLPChatbot
-Seq2Seq (Keras module) + GloVe embeddings + Attention  Chatbot, interfaced with Telegram.
+This Jupyter Notebook implements a Seq2Seq (Keras module) + GloVe embeddings + Attention chatbot, interfaced with Telegram.
 Trained using the transcripts of 617 movies.
 <br><br>
 ![Chatbot](/resources/logo.png )
